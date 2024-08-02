@@ -12,5 +12,6 @@ joblib
 dagshub
 types-PyYAML
 Flask
+gunicorn
 Flask-Cors
 -e .
