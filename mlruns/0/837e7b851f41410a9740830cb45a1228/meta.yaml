@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91766/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/837e7b851f41410a9740830cb45a1228/artifacts
+end_time: 1722587171701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 837e7b851f41410a9740830cb45a1228
+run_name: upbeat-moth-778
+run_uuid: 837e7b851f41410a9740830cb45a1228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722587168785
+status: 3
+tags: []
+user_id: '91766'
