@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91766/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/d03645a07c3d4ced9a53a712fc9c61e5/artifacts
+end_time: 1722588094018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d03645a07c3d4ced9a53a712fc9c61e5
+run_name: gentle-croc-961
+run_uuid: d03645a07c3d4ced9a53a712fc9c61e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722588090694
+status: 3
+tags: []
+user_id: '91766'
